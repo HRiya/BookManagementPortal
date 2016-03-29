@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Symeon-Sign Up</title>
+        <title>Symeon</title>
          {% load staticfiles %}
         <link rel="stylesheet" type="text/css" href="{% static 'books/css/bootstrap.css' %}" />
         <link rel="stylesheet" type="text/css" href="{% static 'books/css/symeon.css' %}" />
